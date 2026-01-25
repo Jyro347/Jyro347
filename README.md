@@ -11,7 +11,7 @@
 ## 🛠 Стек технологий
 - Фронтенд: JavaScript, HTML5, CSS3
 - Инструменты: Git, GitHub, Figma
-- Изучаю: TypeScript, JSDOM, основы Node.js
+- Изучаю: TypeScript, React, основы Node.js
 
 ---
 
